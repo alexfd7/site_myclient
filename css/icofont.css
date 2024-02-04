@@ -1,0 +1,147 @@
+/**
+ * @package IcoFont by ThemeHunt - https://themehunt.com
+ * @version 1.0.0 Beta
+ * @author IcoFont http://icofont.com
+ * @copyright Copyright (c) 2018 IcoFont
+ * @license - http://icofont.com/license/
+*/
+
+@font-face {
+    font-family: 'icofont';
+    src: url('../fonts/icofont.eot?v=1.0.0-beta');
+    src: url('../fonts/icofont.eot?v=1.0.0-beta') format('embedded-opentype'),
+    url('../fonts/icofont.ttf?v=1.0.0-beta') format('truetype'),
+    url('../fonts/icofont.woff?v=1.0.0-beta') format('woff'),
+    url('../fonts/icofont.svg?v=1.0.0-beta') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icofont {
+    font-family: 'IcoFont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icofont-businessman:before {
+	content: "\ea6e";
+}
+.icofont-files:before {
+	content: "\ea77";
+}
+.icofont-idea:before {
+	content: "\ea7a";
+}
+.icofont-money-bag:before {
+	content: "\ea7d";
+}
+.icofont-chart-bar-graph:before {
+	content: "\ea87";
+}
+.icofont-monitor:before {
+	content: "\eb0a";
+}
+.icofont-bubble-down:before {
+	content: "\eb21";
+}
+.icofont-rounded-left:before {
+	content: "\eb5e";
+}
+.icofont-rounded-right:before {
+	content: "\eb61";
+}
+.icofont-brainstorming:before {
+	content: "\eb91";
+}
+.icofont-emo-simple-smile:before {
+	content: "\ebbd";
+}
+.icofont-settings-alt:before {
+	content: "\ebeb";
+}
+.icofont-bag-alt:before {
+	content: "\ec9b";
+}
+.icofont-heart-alt:before {
+	content: "\ecfd";
+}
+.icofont-ui-calendar:before {
+	content: "\ed21";
+}
+.icofont-ui-cell-phone:before {
+	content: "\ed25";
+}
+.icofont-user-alt-4:before {
+	content: "\edd5";
+}
+.icofont-users-alt-1:before {
+	content: "\eddd";
+}
+.icofont-search-alt-2:before {
+	content: "\edee";
+}
+.icofont-social-facebook:before {
+	content: "\ee08";
+}
+.icofont-social-google-map:before {
+	content: "\ee10";
+}
+.icofont-social-google-plus:before {
+	content: "\ee11";
+}
+.icofont-social-instagram:before {
+	content: "\ee14";
+}
+.icofont-social-pinterest:before {
+	content: "\ee23";
+}
+.icofont-social-skype:before {
+	content: "\ee2b";
+}
+.icofont-social-twitter:before {
+	content: "\ee34";
+}
+.icofont-code-alt:before {
+	content: "\eea3";
+}
+.icofont-envelope:before {
+	content: "\efe6";
+}
+.icofont-money:before {
+	content: "\f077";
+}
+.icofont-pie:before {
+	content: "\f09e";
+}
+.icofont-plus:before {
+	content: "\f0a5";
+}
+.icofont-social-linkedin:before {
+	content: "\f123";
+}
+
+/*Font size*/
+
+/*Fixed Width Icons*/
+
+/*Custom list icons*/
+
+/*Animation*/
+
+@keyframes icofont-rotate {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg)
+    }
+}

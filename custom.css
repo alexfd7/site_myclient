@@ -1,0 +1,13 @@
+.cp{
+    cursor: pointer !important;
+  }
+
+.dp{
+    display:none !important;
+}
+
+/*Celular*/
+@media (max-width: 767px) {
+
+
+} 
