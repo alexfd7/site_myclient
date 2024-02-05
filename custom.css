@@ -9,5 +9,8 @@
 /*Celular*/
 @media (max-width: 767px) {
 
+  .logo_img{
+    width: 200px !important;
+  }
 
 } 
